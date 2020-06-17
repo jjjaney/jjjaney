@@ -1,5 +1,5 @@
+![hey there](https://github.com/jjjaney/jjjaney/blob/master/hello.gif)
 
-## :wave: heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeey
 
 ### I'm Janey
 * I go by [she/her/they](https://pronoun.is/she/her?or=they)
