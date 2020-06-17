@@ -1,6 +1,6 @@
 <img src="https://github.com/jjjaney/jjjaney/blob/master/hello.gif" alt="hey" width="200"/>
 
-### I'm Janey
+**I'm Janey**
 _I'll return to this later..._ :v:
 
 <img src="https://github.com/jjjaney/jjjaney/blob/master/dealwithitjjjaney.gif" alt="" width="300"/>
