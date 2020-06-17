@@ -1,4 +1,4 @@
-![hey there](https://github.com/jjjaney/jjjaney/blob/master/hello.gif)
+<img src="https://github.com/jjjaney/jjjaney/blob/master/hello.gif" alt="hey" width="200"/>
 
 
 ### I'm Janey
