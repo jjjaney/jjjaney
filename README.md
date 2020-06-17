@@ -3,7 +3,7 @@
 **I'm Janey**
 <br>_I'll return to this later..._ :v:
 
-<img src="https://github.com/jjjaney/jjjaney/blob/master/dealwithitjjjaney.gif" alt="" width="300"/>
+<img src="https://github.com/jjjaney/jjjaney/blob/master/dealwithitjjjaney.gif" alt="" width="500"/>
 
 
 * I go by [she/her/they](https://pronoun.is/she/her?or=they)
