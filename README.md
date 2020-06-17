@@ -8,4 +8,4 @@
 
 ##### I'll return to this later...
 
-![](https://github.com/jjjaney/jjjaney/blob/master/dealwithitjjjaney.gif)
+<img src="https://github.com/jjjaney/jjjaney/blob/master/dealwithitjjjaney.gif" alt="" width="300"/>
