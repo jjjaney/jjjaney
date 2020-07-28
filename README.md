@@ -1,7 +1,14 @@
 <img src="https://github.com/jjjaney/jjjaney/blob/master/hello.gif" alt="hey" width="200"/>
 
-**I'm Janey**
-<br>_I'll return to this later..._ :v:
+## BLACK LIVES MATTER
+- [Donate to community bail funds](https://www.communityjusticeexchange.org/nbfn-directory)
+- [Natl Resource List #GeorgeFloyd+](https://docs.google.com/document/u/1/d/1CjZMORRVuv-I-qo4B0YfmOTqIOa3GUS207t5iuLZmyA/mobilebasic?fbclid=IwAR04u9yYwfIy5pl28v6_YPYKDvW3eN3X77TNb77b2sV9jqwSY74oMEhYMzE)
+- [blacklivesmatters.carrd.co](https://blacklivesmatters.carrd.co/)
+- [Additional resources and ways to help](https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html)
+
+***
+
+**I'm Janey** :v:
 
 <img src="https://github.com/jjjaney/jjjaney/blob/master/dealwithitjjjaney.gif" alt="" width="500"/>
 
