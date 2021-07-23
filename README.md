@@ -11,7 +11,9 @@
 **I'm Janey** :v:
 
 * I go by [she/her/they](https://pronoun.is/she/her?or=they)
-* Former *Propagandist* [aka] *Editorial Blog Manager* for [GitHub.blog](https://github.blog/)
-* Now I'm a *Product Manager* for [GitHub Sponsors](https://github.com/sponsors) :sparkling_heart:
+* Formerly
+  * Propagandist [aka] *Editorial Blog Manager* for [GitHub.blog](https://github.blog/)
+  * Product Manager for [GitHub Sponsors](https://github.com/sponsors) :sparkling_heart:
+* Find out what I'm doing on my porfolio @ [janeys.work/](https://janeys.work/)
 
 
