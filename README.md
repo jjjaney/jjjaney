@@ -10,8 +10,6 @@
 
 **I'm Janey** :v:
 
-* I go by [she/her/they](https://pronoun.is/she/her?or=they)
-
 * Currently...
   * [Freelance + Contracting 😎](https://janeys.work/)
   * Find out what I'm doing on my porfolio @ [janeys.work/](https://janeys.work/)
