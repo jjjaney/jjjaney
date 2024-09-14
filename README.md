@@ -11,14 +11,16 @@
 **I'm Janey** :v:
 
 * I go by [she/her/they](https://pronoun.is/she/her?or=they)
-* Now
+
+* Currently...
   * [Freelance + Contracting 😎](https://janeys.work/)
-* Formerly
+  * Find out what I'm doing on my porfolio @ [janeys.work/](https://janeys.work/)
+
+* Previously @...
   * BCNY
   * Doppler
   * Shopify
   * Product Manager for [GitHub Sponsors](https://github.com/sponsors) :sparkling_heart:
   * Propagandist [aka] *Editorial Blog Manager* for [GitHub.blog](https://github.blog/)
-* Find out what I'm doing on my porfolio @ [janeys.work/](https://janeys.work/)
 
 
