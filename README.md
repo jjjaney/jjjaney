@@ -2,9 +2,9 @@
 
 ## BLACK LIVES MATTER
 - [Donate to community bail funds](https://www.communityjusticeexchange.org/nbfn-directory)
-- [Natl Resource List #GeorgeFloyd+](https://docs.google.com/document/u/1/d/1CjZMORRVuv-I-qo4B0YfmOTqIOa3GUS207t5iuLZmyA/mobilebasic?fbclid=IwAR04u9yYwfIy5pl28v6_YPYKDvW3eN3X77TNb77b2sV9jqwSY74oMEhYMzE)
-- [blacklivesmatters.carrd.co](https://blacklivesmatters.carrd.co/)
-- [Additional resources and ways to help](https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html)
+- [blacklivesmatters.carrd.co](https://blacklivesmatters.carrd.co/) / [additional resources and ways to help](https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html)
+- [How to help humanitarian efforts in Israel and Gaza](https://www.npr.org/2023/10/13/1205235922/help-israel-gaza-humanitarian-organizations)
+- [UN Crisis Relief](https://crisisrelief.un.org/opt-crisis)
 
 ***
 
