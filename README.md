@@ -13,7 +13,7 @@
 * Currently...
   * [Freelance + Contracting 😎](https://janeys.work/)
   * Find out what I'm doing on my portfolio @ [janeys.work/](https://janeys.work/)
-  * [linkedin.com/janeyannis](https://www.linkedin.com/in/janeyannis)
+  * [linkedin.com/in/janeyannis](https://www.linkedin.com/in/janeyannis)
 
 * Previously @...
   * BCNY
