@@ -5,6 +5,7 @@
 - [blacklivesmatters.carrd.co](https://blacklivesmatters.carrd.co/) / [additional resources and ways to help](https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html)
 - [How to help humanitarian efforts in Israel and Gaza](https://www.npr.org/2023/10/13/1205235922/help-israel-gaza-humanitarian-organizations)
 - [UN Crisis Relief](https://crisisrelief.un.org/opt-crisis)
+- [Donate to the ACLU - "Defend the rights of people nationwide"](https://www.aclu.org/)
 
 ***
 
