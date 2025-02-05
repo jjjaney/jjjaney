@@ -13,7 +13,7 @@
 
 * Currently...
   * [Freelance + Contracting 😎](https://www.janeys.work/)
-  * Find out what I'm doing on my portfolio @ [janeys.work/](https://janeys.work/)
+  * Find out what I'm doing on my portfolio @ [janeys.work/](https://www.janeys.work/)
   * [linkedin.com/in/janeyannis](https://www.linkedin.com/in/janeyannis)
 
 * Previously @...
