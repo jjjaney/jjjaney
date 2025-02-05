@@ -12,7 +12,7 @@
 **I'm Janey** :v:
 
 * Currently...
-  * [Freelance + Contracting 😎](https://janeys.work/)
+  * [Freelance + Contracting 😎](https://www.janeys.work/)
   * Find out what I'm doing on my portfolio @ [janeys.work/](https://janeys.work/)
   * [linkedin.com/in/janeyannis](https://www.linkedin.com/in/janeyannis)
 
